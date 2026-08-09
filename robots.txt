@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://notes-voi2po.juragan89site.store/sitemap.xml
